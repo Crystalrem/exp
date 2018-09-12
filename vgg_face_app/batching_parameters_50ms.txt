@@ -1,0 +1,2 @@
+max_batch_size { value: 7}
+batch_timeout_micros { value: 16000}
